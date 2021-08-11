@@ -1,7 +1,11 @@
 package CometIsGoing;
 
 public class NewClass {
-we will do it successfully
-
-yes we will
+	
+public static void main(String[] args) {
+	
+	
+	System.out.println("This is the first commit file");
+	
+}
 }
